@@ -4,7 +4,7 @@ Prerequisites
 To follow this tutorial you will need:
 
 The Terraform CLI (1.2.0+) installed.
-The AWS CLI installed.
+The AWS CLI installed or Role on IAM that has Admin full access for EC2.
 AWS account and associated credentials that allow you to create resources.
 
 Terraform Block
