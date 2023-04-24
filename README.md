@@ -1,4 +1,4 @@
-# Terraform-IaaC
+# Learn-Terraform
 
 Prerequisites
 To follow this tutorial you will need:
