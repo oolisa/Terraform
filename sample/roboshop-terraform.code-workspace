@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../roboshop-terraform/roboshop-terraform"
+		},
+		{
+			"name": "Terraform-1",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
